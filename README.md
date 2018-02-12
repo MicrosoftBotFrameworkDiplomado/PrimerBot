@@ -18,17 +18,17 @@ La API funciona bajo el método HTTP POST, por lo que encontraremos el siguiente
 
 Para probar el bot se puede utilizar el BOT Framework Emulator, en mi caso la conexión es la siguiente:
 
-![Configuración BOT Framework](capturas/botfmbar.png)
+![Configuración BOT Framework](capturas/botfmbar.PNG)
 
 Probando el bot con el mensaje 'Hola!', el BOT responde correctamente
 
-![Test Mensaje 'Hola!'](capturas/botfmhola.png)
+![Test Mensaje 'Hola!'](capturas/botfmhola.PNG)
 
 El mensaje que retorna el BOT es JSON que el BOT Framework Emulator se encarga de procesar.
 
-![JSON REQUEST](capturas/botfmhola2.png)
+![JSON REQUEST](capturas/botfmhola2.PNG)
 
-![JSON RESPONSE](capturas/botfmhola3.png)
+![JSON RESPONSE](capturas/botfmhola3.PNG)
 
 
 
