@@ -24,11 +24,9 @@ Probando el bot con el mensaje 'Hola!', el BOT responde correctamente
 
 ![Test Mensaje 'Hola!'](capturas/botfmhola.PNG)
 
-El mensaje que retorna el BOT es JSON que el BOT Framework Emulator se encarga de procesar.
+El mensaje que recibe y retorna el BOT está estructurado en JSON y es el BOT Framework Emulator el que se encarga de hacer la conversión.
 
-![JSON REQUEST](capturas/botfmhola2.PNG)
-
-![JSON RESPONSE](capturas/botfmhola3.PNG)
+![JSON REQUEST - RESPONSE](capturas/botfmholajson.PNG)
 
 
 
