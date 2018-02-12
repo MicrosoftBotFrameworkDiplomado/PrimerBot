@@ -9,7 +9,9 @@ Para hacer funcionar el bot debes seguir la siguiente guía:
 ## Capturas
 
 Al compilar el código, el bot se ejecutará en la siguiente dirección
+
 ![Image of Yaktocat](capturas/url.jpg)
+
 **El puerto puede variar**
 
 La API funciona bajo el método HTTP POST, por lo que encontraremos el siguiente error
@@ -19,10 +21,10 @@ Para probar el bot se puede utilizar el BOT Framework Emulator
 ![Image of Yaktocat](capturas/botfm.png)
 
 En mi caso la conexión es la siguiente
-![Image of Yaktocat](capturas/botbar.png)
+![Image of Yaktocat](capturas/botfmbar.png)
 
 Probando el bot con el mensaje 'Hola!', el BOT responde correctamente
-![Image of Yaktocat](capturas/bothola.png)
+![Image of Yaktocat](capturas/botfmhola.png)
 
 El mensaje que retorna el BOT es JSON que el BOT Framework emulator se encarga de procesar.
 ![Image of Yaktocat](capturas/botfmhola2.png)
