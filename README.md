@@ -13,7 +13,7 @@ Al compilar el código, el bot se ejecutará en la siguiente dirección
 ![Dirección URL BOT](capturas/url.jpg)
 **El puerto puede variar**
 
-La API funciona bajo el método HTTP POST, por lo que encontraremos el siguiente error
+La API funciona bajo el método HTTP POST,siguiente error al hacer una petición GET
 ![Resultado API método GET](capturas/resultado.png)
 
 Para probar el bot se puede utilizar el BOT Framework Emulator, en mi caso la conexión es la siguiente:
